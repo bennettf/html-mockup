@@ -80,6 +80,12 @@ table {
   margin:0 auto;
 }
 
+.generation {
+	vertical-align: top;
+  display: inline-block;
+  text-align: center;
+}
+
 .generation img{
 	position: absolute;
 	 margin: auto;
@@ -109,9 +115,4 @@ table {
 	font-size: 12px;
 	font-weight: lighter;
 	white-space: nowrap;
-}
-
-.generation {
-	vertical-align: top;
-	display:inline-block;
 }
